@@ -1,4 +1,4 @@
-package com.practice.algo.sort;
+package com.algo.sort;
 
 public class SelectionSort {
 	/* Objective: Select smallest element in array and place it to it's right position.

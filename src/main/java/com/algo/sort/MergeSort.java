@@ -1,4 +1,4 @@
-package com.practice.algo.sort;
+package com.algo.sort;
 
 /**
  * @author ngoswami

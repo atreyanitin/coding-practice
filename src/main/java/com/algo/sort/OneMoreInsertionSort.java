@@ -1,4 +1,4 @@
-package com.practice.algo.sort;
+package com.algo.sort;
 
 /*
  * Objective: Sort array from left, minimum size 2 at start. Left most array should always be sorted.

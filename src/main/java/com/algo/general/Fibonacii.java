@@ -1,4 +1,4 @@
-package com.practice.algo;
+package com.algo.general;
 
 public class Fibonacii {
 	
