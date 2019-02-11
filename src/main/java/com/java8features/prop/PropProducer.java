@@ -1,4 +1,4 @@
-package java8features.prop;
+package com.java8features.prop;
 
 import java.io.IOException;
 import java.io.InputStream;

@@ -1,4 +1,4 @@
-package java8features.funcp;
+package com.java8features.funcp;
 
 public class IntegerMain {
 	

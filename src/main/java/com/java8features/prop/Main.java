@@ -1,4 +1,4 @@
-package java8features.prop;
+package com.java8features.prop;
 
 import javax.enterprise.context.ApplicationScoped;
 import javax.inject.Inject;

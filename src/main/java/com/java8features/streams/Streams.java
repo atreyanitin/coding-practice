@@ -1,4 +1,4 @@
-package java8features.streams;
+package com.java8features.streams;
 
 import java.util.Arrays;
 import java.util.List;

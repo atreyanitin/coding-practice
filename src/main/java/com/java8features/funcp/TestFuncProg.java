@@ -1,4 +1,4 @@
-package java8features.funcp;
+package com.java8features.funcp;
 
 import java.util.ArrayList;
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-package java8features.prop;
+package com.java8features.prop;
 
 import static java.lang.annotation.ElementType.FIELD;
 import static java.lang.annotation.ElementType.METHOD;

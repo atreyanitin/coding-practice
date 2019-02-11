@@ -1,4 +1,4 @@
-package java8features.defaults;
+package com.java8features.defaults;
 
 public interface Father {
 	

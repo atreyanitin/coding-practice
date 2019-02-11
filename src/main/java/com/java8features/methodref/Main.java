@@ -1,4 +1,4 @@
-package java8features.methodref;
+package com.java8features.methodref;
 
 import java.util.Arrays;
 
